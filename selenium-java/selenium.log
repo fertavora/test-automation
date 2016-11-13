@@ -1,0 +1,61 @@
+2016-10-22 16:48:48 INFO  ProductsTests:33 - Driver Started
+2016-10-22 16:48:48 INFO  ProductsTests:35 - Windows maximized
+2016-10-22 16:48:52 INFO  ProductsTests:37 - Get http://52.72.120.236:8082/prizy-webapp-0.1/
+2016-10-22 17:19:43 INFO  ProductsExceptionsTest:27 - Driver Started
+2016-10-22 17:19:43 INFO  ProductsExceptionsTest:29 - Windows maximized
+2016-10-22 17:19:47 INFO  ProductsExceptionsTest:31 - Get http://52.72.120.236:8082/prizy-webapp-0.1/
+2016-10-22 17:19:47 INFO  ProductsExceptionsTest:48 - Go to New Product
+2016-10-22 17:19:47 INFO  ProductsExceptionsTest:50 - Enter barcode BARCODE1477167587216
+2016-10-22 17:19:47 INFO  ProductsExceptionsTest:52 - Enter name 
+2016-10-22 17:19:47 INFO  ProductsExceptionsTest:54 - Enter brand
+2016-10-22 17:19:48 INFO  ProductsExceptionsTest:56 - Enter description 
+2016-10-22 17:19:48 INFO  ProductsExceptionsTest:58 - Click save button
+2016-10-22 17:19:48 INFO  ProductsExceptionsTest:60 - Assert message
+2016-10-22 17:19:49 INFO  ProductsExceptionsTest:62 - Assert barcode
+2016-10-22 17:19:49 INFO  ProductsExceptionsTest:64 - Assert name
+2016-10-22 17:19:49 INFO  ProductsExceptionsTest:66 - Assert brand
+2016-10-22 17:19:49 INFO  ProductsExceptionsTest:68 - Assert description
+2016-10-22 17:19:50 INFO  ProductsExceptionsTest:72 - Go to New Product
+2016-10-22 17:19:50 INFO  ProductsExceptionsTest:74 - Enter barcode BARCODE1477167587216
+2016-10-22 17:19:50 INFO  ProductsExceptionsTest:76 - Enter name 
+2016-10-22 17:19:50 INFO  ProductsExceptionsTest:78 - Enter brand
+2016-10-22 17:19:50 INFO  ProductsExceptionsTest:80 - Enter description 
+2016-10-22 17:19:51 INFO  ProductsExceptionsTest:82 - Click save button
+2016-10-22 17:19:51 INFO  ProductsExceptionsTest:84 - Assert already exits message is displayed
+2016-10-22 17:19:51 INFO  ProductsExceptionsTest:36 - Close webdriver
+2016-10-22 17:24:00 INFO  ProductsExceptionsTest:28 - Driver Started
+2016-10-22 17:24:00 INFO  ProductsExceptionsTest:30 - Windows maximized
+2016-10-22 17:24:07 INFO  ProductsExceptionsTest:32 - Get http://52.72.120.236:8082/prizy-webapp-0.1/
+2016-10-22 17:24:08 INFO  ProductsExceptionsTest:37 - Close webdriver
+2016-11-01 22:10:03 INFO  LoginTests:41 - Close webdriver
+2016-11-01 22:10:09 INFO  LoginTests:41 - Close webdriver
+2016-11-01 22:11:51 INFO  LoginTests:41 - Close webdriver
+2016-11-01 22:11:58 INFO  LoginTests:41 - Close webdriver
+2016-11-01 22:18:17 INFO  LoginTests:43 - loginOkTest completed!
+2016-11-01 22:18:17 INFO  LoginTests:44 - 1 completed!
+2016-11-01 22:18:23 INFO  LoginTests:43 - loginOkTest completed!
+2016-11-01 22:18:23 INFO  LoginTests:44 - 1 completed!
+2016-11-01 22:24:19 INFO  LoginTests:44 - loginOkTest completed!
+2016-11-01 22:24:19 INFO  LoginTests:47 - PASSED!
+2016-11-01 22:24:25 INFO  LoginTests:44 - loginOkTest completed!
+2016-11-01 22:24:25 INFO  LoginTests:47 - PASSED!
+2016-11-01 22:26:25 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@61d6015a completed!
+2016-11-01 22:26:25 INFO  LoginTests:47 - PASSED!
+2016-11-01 22:26:33 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@29647f75 completed!
+2016-11-01 22:26:33 INFO  LoginTests:47 - PASSED!
+2016-11-01 22:27:00 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@2525ff7e completed!
+2016-11-01 22:27:00 INFO  LoginTests:47 - PASSED!
+2016-11-01 22:27:13 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@3315d2d7 completed!
+2016-11-01 22:27:13 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:34:56 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@f381794 completed!
+2016-11-03 21:34:56 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:35:03 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@40cb8df7 completed!
+2016-11-03 21:35:03 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:41:53 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@6c130c45 completed!
+2016-11-03 21:41:53 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:42:00 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@50b5ac82 completed!
+2016-11-03 21:42:00 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:52:26 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@6c130c45 completed!
+2016-11-03 21:52:26 INFO  LoginTests:47 - PASSED!
+2016-11-03 21:52:34 INFO  LoginTests:44 - loginOkTest [Ljava.lang.Object;@50b5ac82 completed!
+2016-11-03 21:52:34 INFO  LoginTests:47 - PASSED!

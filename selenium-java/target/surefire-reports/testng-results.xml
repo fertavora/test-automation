@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="15749" started-at="2016-11-04T00:52:18Z" finished-at="2016-11-04T00:52:34Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="15749" started-at="2016-11-04T00:52:18Z" finished-at="2016-11-04T00:52:34Z">
+      <class name="tests.LoginTests">
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.LoginTests@5d5eef3d]" name="start" is-config="true" duration-ms="7462" started-at="2016-11-03T21:52:18Z" finished-at="2016-11-03T21:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginOkTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.LoginTests@5d5eef3d]" name="loginOkTest" duration-ms="857" started-at="2016-11-03T21:52:25Z" data-provider="loginCredentials" finished-at="2016-11-03T21:52:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[You logged into a secure area!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOkTest -->
+        <test-method status="PASS" signature="stop(org.testng.ITestResult)[pri:0, instance:tests.LoginTests@5d5eef3d]" name="stop" is-config="true" duration-ms="80" started-at="2016-11-03T21:52:26Z" finished-at="2016-11-03T21:52:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginOkTest status=SUCCESS method=LoginTests.loginOkTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.LoginTests@5d5eef3d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="start()[pri:0, instance:tests.LoginTests@5d5eef3d]" name="start" is-config="true" duration-ms="6295" started-at="2016-11-03T21:52:26Z" finished-at="2016-11-03T21:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginOkTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.LoginTests@5d5eef3d]" name="loginOkTest" duration-ms="977" started-at="2016-11-03T21:52:33Z" data-provider="loginCredentials" finished-at="2016-11-03T21:52:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Your username is invalid!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOkTest -->
+        <test-method status="PASS" signature="stop(org.testng.ITestResult)[pri:0, instance:tests.LoginTests@5d5eef3d]" name="stop" is-config="true" duration-ms="69" started-at="2016-11-03T21:52:34Z" finished-at="2016-11-03T21:52:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginOkTest status=SUCCESS method=LoginTests.loginOkTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.LoginTests@5d5eef3d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- tests.LoginTests -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite1 -->
+</testng-results>
